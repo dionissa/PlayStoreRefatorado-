@@ -1,4 +1,4 @@
-import games from '../games/games';
+import games from '../games';
 
 
 function Cards() {
